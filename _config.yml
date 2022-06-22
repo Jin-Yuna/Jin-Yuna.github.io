@@ -1,21 +1,12 @@
+remote_theme: just-the-docs/just-the-docs
+
 # Site settings
 title: Yuna_m_sang
 description: Today I Learned
 baseurl: "/" # the subpath of your site
 url: "https://Jin-Yuna.github.io" # the base hostname & protocol for your site
 
-remote_theme: just-the-docs/just-the-docs
-
 permalink: pretty
-
-# Regression tests
-# By default, the pages in /docs/tests are excluded when the ste is built.
-# To include them, comment-out the relevant line above.
-# Uncommenting the following line doesn't work - see https://github.com/jekyll/jekyll/issues/4791
-# include: ["docs/tests/"]
-
-# Set a path/url to a logo that will be displayed instead of the title
-#logo: "/assets/images/just-the-docs.png"
 
 # Enable or disable the site search
 # Supports true (default) or false
@@ -50,8 +41,6 @@ aux_links:
   "Jin-Yuna on GitHub":
     - "//github.com/Jin-Yuna"
 
-# Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
 
 # Back to top link
 back_to_top: true
@@ -65,7 +54,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
-gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_link_text: "Jin-Yuna GitHub"
 gh_edit_repository: "https://Jin-Yuna.github.io" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
