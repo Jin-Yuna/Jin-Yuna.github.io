@@ -1,6 +1,6 @@
 ---
 layout: default
-title: menu3
+title: Computer Science
 nav_order: 3
 has_child: true
 permalink: /docs/computer science
@@ -8,7 +8,7 @@ permalink: /docs/computer science
 
 
 
-# Menu3
+# Computer Science
 
 
 

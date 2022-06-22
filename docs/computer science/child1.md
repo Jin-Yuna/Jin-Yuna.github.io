@@ -1,7 +1,7 @@
 ---
 layout: default
 title: child1
-parent: menu3
+parent: Computer Science
 nav_order: 1
 ---
 

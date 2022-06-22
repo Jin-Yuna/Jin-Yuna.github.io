@@ -14,27 +14,21 @@ permalink: /
 
 
 
-# Welcome to github.io
+# Yuna_m_sang
 
 {: . fs-8}
 
 
 
-Github Description
+Today I Learned
 
 {: . fs-6 .fw-300 }
 
-
-
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+<br>
 
  [View it on GitHub](https://github.com/Jin-Yuna){: .btn .fs-5 .mb-4 .mb-md-0 }
-
-
 
 ---
 
 
-
-## Getting started
 
