@@ -22,11 +22,13 @@ permalink: /
 
 <img src="index.assets/rabbit.jpg" alt="rabbit" style="zoom:50%;" align="left"/>
 
+
+
 > ✍ Today I Learned
 >
 > 🤓 You know what I'm saying
-
-{: . fs-6 .fw-300 }
+>
+> {: . fs-6 .fw-300 }
 
 <br>
 
