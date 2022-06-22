@@ -1,11 +1,10 @@
-remote_theme: just-the-docs/just-the-docs
-theme: "just-the-docs"
-
 # Site settings
 title: Yuna_m_sang
 description: Today I Learned
 baseurl: "/til" # the subpath of your site
 url: "https://Jin-Yuna.github.io" # the base hostname & protocol for your site
+
+remote_theme: just-the-docs/just-the-docs
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
