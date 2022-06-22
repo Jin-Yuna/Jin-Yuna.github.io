@@ -7,7 +7,7 @@ nav_order: 3
 
 has_child: true
 
-permalink: /docs/computer%20science
+permalink: /docs/computer science
 ---
 
 

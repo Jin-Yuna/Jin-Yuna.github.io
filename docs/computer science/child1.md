@@ -3,7 +3,7 @@ layout: default
 
 title: child1
 
-parent: Computer Science
+parent: computer science
 
 nav_order: 1
 ---
