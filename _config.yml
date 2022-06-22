@@ -35,22 +35,17 @@ search:
   # Supports true or false (default)
   button: false
 
-# Google Analytics Tracking (optional)
-# e.g, UA-1234567-89
-# ga_tracking: UA-5555555-55
-# ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
-
 # Aux links for the upper right navigation
 aux_links:
   "Jin-Yuna on GitHub":
     - "//github.com/Jin-Yuna"
 
-footer_content: "Copyright &copy; 2022 Jin-Yuna.
+# footer_content: "Copyright &copy; 2022 Jin-Yuna.
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Jin-Yuna GitHub"
-gh_edit_repository: "https://Jin-Yuna.github.io" # the github URL for your repo
+gh_edit_repository: "https://github.com/Jin-Yuna" # the github URL for your repo
 
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
 color_scheme: dark
