@@ -1,7 +1,10 @@
 ---
 layout: default
+
 title: child1
+
 parent: Computer Science
+
 nav_order: 1
 ---
 

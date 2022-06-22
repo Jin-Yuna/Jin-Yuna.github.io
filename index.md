@@ -18,7 +18,7 @@ permalink: /
 
 {: . fs-8}
 
-
+<br>
 
 ✍ Today I Learned
 
@@ -29,8 +29,6 @@ permalink: /
 <br>
 
  [View it on GitHub](https://github.com/Jin-Yuna){: .btn .fs-5 .mb-4 .mb-md-0 }
-
----
 
 
 
