@@ -1,15 +1,12 @@
 # Site settings
 title: Yuna_m_sang
 description: Today I Learned
-baseurl: "/til" # the subpath of your site
+baseurl: "/" # the subpath of your site
 url: "https://Jin-Yuna.github.io" # the base hostname & protocol for your site
 
 remote_theme: just-the-docs/just-the-docs
 
 permalink: pretty
-exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
-, "docs/tests/"
-]
 
 # Regression tests
 # By default, the pages in /docs/tests are excluded when the ste is built.
@@ -47,8 +44,6 @@ search:
   # Supports true or false (default)
   button: false
 
-# Enable or disable heading anchors
-heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
@@ -58,18 +53,11 @@ aux_links:
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
 
-# Sort order for navigation links
-# nav_sort: case_insensitive # default, equivalent to nil
-nav_sort: case_sensitive # Capital letters sorted before lowercase
-
-# Footer content
-# appears at the bottom of every page's main content
-
 # Back to top link
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Copyright &copy; 2017-2020 Patrick Marsceill. Distributed by an <a href=\"https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt\">MIT license.</a> <a href=\"https://www.netlify.com/\">This site is powered by Netlify.</a>"
+footer_content: "Copyright &copy; 2022 Jin-Yuna.
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
@@ -84,20 +72,12 @@ gh_edit_branch: "main" # the branch that your docs is served from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
-color_scheme: nil
+color_scheme: dark
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
 ga_tracking: UA-2709176-10
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
-
-plugins:
-  - jekyll-seo-tag
-
-kramdown:
-  syntax_highlighter_opts:
-    block:
-      line_numbers: false
 
 compress_html:
   clippings: all
