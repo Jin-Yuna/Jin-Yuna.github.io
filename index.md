@@ -16,17 +16,15 @@ permalink: /
 
 # Yuna_m_sang
 
-{: .fs-8 .fw-700}
+{: .fs-8}
 
 
 
 ✍ Today I Learned
 
-{: .fs-6 .fw-300 }
-
 🤓 You know what I'm saying
 
-{: .fs-6 .fw-300 }
+{: . fs-5 .fw-300}
 
 
 
