@@ -20,11 +20,11 @@ permalink: /
 
 
 
-✍ Today I Learned
+✍ Today I Learned{: . fs-6 .fw-300 }
 
-🤓 You know what I'm saying
+🤓 You know what I'm saying{: . fs-6 .fw-300 }
 
-{: . fs-6 .fw-300 }
+
 
 
 
