@@ -16,13 +16,13 @@ permalink: /
 
 # Yuna_m_sang
 
-{: . fs-8}
+{: .fs-8 .fw-700}
 
 <br>
 
 <img src="index.assets/rabbit.jpg" alt="rabbit" style="zoom:50%;" align="left"/>
 
-
+<br>
 
 > ✍ Today I Learned
 >

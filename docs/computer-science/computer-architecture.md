@@ -1,11 +1,11 @@
 ---
 layout: default
 
-title: child1
+title: Computer Architecture
 
 parent: Computer Science
 
-nav_order: 1
+nav_order: 4
 ---
 
 

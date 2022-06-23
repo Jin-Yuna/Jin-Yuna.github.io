@@ -3,11 +3,11 @@ layout: default
 
 title: Computer Science
 
-nav_order: 3
+nav_order: 4
 
-has_child: true
+has_children: true
 
-permalink: /docs/computer_science
+permalink: /docs/computer-science
 ---
 
 
