@@ -20,9 +20,9 @@ permalink: /
 
 
 
-> ✍ Today I Learned
->
-> 🤓 You know what I'm saying
+✍ Today I Learned
+
+🤓 You know what I'm saying
 
 {: . fs-6 .fw-300 }
 
