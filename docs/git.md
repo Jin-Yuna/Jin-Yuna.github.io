@@ -1,7 +1,7 @@
 ---
 layout: default
 
-title: git
+title: Git
 
 nav_order: 3
 ---

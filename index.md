@@ -20,10 +20,6 @@ permalink: /
 
 <br>
 
-<img src="index.assets/rabbit.jpg" alt="rabbit" style="zoom:50%;" align="left"/>
-
-<br>
-
 > ✍ Today I Learned
 >
 > 🤓 You know what I'm saying
